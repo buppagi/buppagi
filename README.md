@@ -24,10 +24,10 @@
 
 ## 🏆 My Github Stats:
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=buppagi&theme=radical">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=buppagi&theme=radical" />
+  <img align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=buppagi&theme=radical" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=buppagi&count_private=true&show_icons=true&theme=radical">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=buppagi&count_private=true&show_icons=true&theme=radical" />
+  <img  align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=buppagi&count_private=true&show_icons=true&theme=radical" />
 </a>
 
 <!-- 레이아웃: 가로 정렬 layout=compact
@@ -35,7 +35,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buppagi&layout=compact&theme=radical" />
 </a> -->
 
-<a href="https://github.com/buppagi/webfonts">
+
+**My Repo:**
+
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buppagi&repo=webfonts&theme=radical" />
 </a>    
 <a href="https://github.com/buppagi/jQuery-tabMenu">
