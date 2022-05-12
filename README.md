@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [buppagi](https://buppagi.com) 😀
+## Hi there 👋, I'm [buppagi](https://buppagistar.com) 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=buppagi.buppagi) [![Github](https://img.shields.io/github/followers/buppagi?label=Followers&logo=Github)](https://github.com/buppagi)
 
 
