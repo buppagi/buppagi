@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=buppagi.buppagi) [![Github](https://img.shields.io/github/followers/buppagi?label=Followers&logo=Github)](https://github.com/buppagi)
 
 
-안녕하세요. 저는 한국에서 열정적으로 독학하고 있는 UI개발자 부빠기입니다.
+안녕하세요. 저는 한국에서 열정적으로 독학하고 있는 프론트 엔드 개발자 부빠기입니다.
 
 
 ## 🧰 Languages and Tools:
